@@ -14,9 +14,7 @@ Desde que ingrese hasta el momento mis días han sido intensos y emocionantes al
 Herramientas y Experiencias.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-Soy hábil en diversas tecnologías, incluyendo:
-
-JavaScript Reaccionar Redux Node.js Expresar Secuela PostgreSQL HTML Css Estos proyectos han fortalecido mi habilidad para enfrentar desafíos y crear soluciones eficientes y funcionales. Entiendo la importancia de la colaboración y la eficiencia en el desarrollo de soluciones tecnológicas.
+Soy hábil en diversas tecnologías, incluyendo: JavaScript Reaccionar Redux Node.js Expresar Secuela PostgreSQL HTML Css Estos proyectos han fortalecido mi habilidad para enfrentar desafíos y crear soluciones eficientes y funcionales. Entiendo la importancia de la colaboración y la eficiencia en el desarrollo de soluciones tecnológicas.
 
 Mis Metas Aspiro a aplicar mi sólida formación académica, pensamiento creativo y experiencia en proyectos reales para seguir creciendo en la parte del desarrollador web y aprender nuevas tecnologías que pueda ayudarme a crecer más profesionalmente
 
