@@ -1,4 +1,4 @@
-¡Hola! Soy Luis Barrios, Desarrollador FullStack.  # Luis Barrios
+# ¡Hola! Soy Luis Barrios, Desarrollador FullStack. 
 ____________________________________________________________________________________________________________________________________________________________________________
 
 Tiempos Atras
