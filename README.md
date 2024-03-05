@@ -21,4 +21,4 @@ Mis Metas Aspiro a aplicar mi sólida formación académica, pensamiento creativ
 ## Contactame.
 _____________________________________________________________________________________________________________________________________________________________________________
 
-Celular: +57 313 475 77 08 Correo: luis901810@gmail.com o luis901810@hotmail.com
+Celular: +57 313 475 77 08 Correo: luis901810@gmail.com
